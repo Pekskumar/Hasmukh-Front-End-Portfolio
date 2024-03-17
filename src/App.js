@@ -38,7 +38,7 @@ function App() {
       
       {/* <Counter /> */}
       <Testimonial />
-      <Projects />
+      {/* <Projects /> */}
       <Skills />
       
       <CalltoAction />

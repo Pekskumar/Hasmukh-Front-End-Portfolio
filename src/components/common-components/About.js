@@ -32,7 +32,7 @@ function About() {
                             <div className="card-inner">
                                 {/* <h1 class="title">Designed For Work</h1> */}
 
-                                <p class="subtitle">I’ve been working from 1.9+ year as a Frontend Developer. During that time I’ve been trained software platforms and systems. I have experience in React Js , Javascript, WordPress, HTML5, CSS3, SASS, Tailwind, React Bootstrap, Jquery and Bootstrap. I am Passionate about implementing and launching new projects. Looking to start the career as Full-Stack Frontend Developer with a reputed firm driven by technology.
+                                <p class="subtitle">I’ve been working from 2+ year as a Frontend Developer. During that time I’ve been trained software platforms and systems. I have experience in HTML5, CSS3, Tailwind, Bootstrap, Wordpress(Design), Jquery and Javascript. I am Passionate about implementing and launching new projects. Looking to start the career as  Frontend Developer with a reputed firm driven by technology.
                                     </p>
                                 {/* <ul className="about-skill d-flex">
                                     <li>the first ever</li>

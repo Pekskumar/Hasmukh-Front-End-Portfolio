@@ -8,9 +8,31 @@ import illustratorIcon from '../../images/icons/illustrator.svg';
 import nodeIcon from '../../images/icons/node.svg';
 
 const Skill_left_API = [
+
+    {
+        icon:`${xdIcon}`,
+        iconName:'XD',
+    },
+    {
+        icon:`${photoshopIcon}`,
+        iconName:'Photoshop',
+    },
+{
+        icon:`${illustratorIcon}`,
+        iconName:'Illustrator',
+    },
+
     {
         icon:`${figmaIcon}`,
         iconName:'Figma',
+    },
+    {
+        icon:`${ChatGPT}`,
+        iconName:'ChatGPT',
+    },
+    {
+        icon:`${wordpressIcon}`,
+        iconName:'Wordpress',
     },
     {
         icon:`${xdIcon}`,
@@ -20,21 +42,9 @@ const Skill_left_API = [
         icon:`${photoshopIcon}`,
         iconName:'Photoshop',
     },
-    {
-        icon:`${muiIcon}`,
-        iconName:'Material UI',
-    },{
-  
+{
         icon:`${illustratorIcon}`,
         iconName:'Illustrator',
-    },
-      {
-        icon:`${wordpressIcon}`,
-        iconName:'Wordpress',
-    },
-    {
-        icon:`${ChatGPT}`,
-        iconName:'ChatGPT',
     },
     // {
     //     icon:`${nodeIcon}`,

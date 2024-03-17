@@ -11,42 +11,53 @@ import Redux from '../../images/icons/redux.svg';
 
 
 const Skill_Right_API = [
-    {
-        icon:`${reactIcon}`,
-        iconName:'React Js',
-    },
-    {
-        icon:`${Redux}`,
-        iconName:'Redux',
-    },
+
     {
         icon:`${html5Icon}`,
         iconName:'HTML 5',
-    },
-    {
-        icon:`${sassIcon}`,
-        iconName:'SCSS',
-    },
-    {
-        icon:`${TailwindIcon}`,
-        iconName:'Tailwind',
-    },
-    {
-        icon:`${jqueryIcon}`,
-        iconName:'jQuery',
     },
     {
         icon:`${css3Icon}`,
         iconName:'CSS 3',
     },
     {
-        icon:`${javascriptIcon}`,
-        iconName:'Javascript',
+        icon:`${TailwindIcon}`,
+        iconName:'Tailwind',
     },
     {
         icon:`${bootstrapIcon}`,
         iconName:'Bootstrap',
-    }
+    },
+    // {
+    //     icon:`${sassIcon}`,
+    //     iconName:'SCSS',
+    // },
+    // {
+    //     icon:`${reactIcon}`,
+    //     iconName:'React Js (Basic)',
+    // },
+    // {
+    //     icon:`${Redux}`,
+    //     iconName:'Redux',
+    // },
+    {
+        icon:`${jqueryIcon}`,
+        iconName:'jQuery',
+    },
+ 
+    {
+        icon:`${javascriptIcon}`,
+        iconName:'Javascript',
+    },
+    {
+        icon:`${html5Icon}`,
+        iconName:'HTML 5',
+    },
+    {
+        icon:`${css3Icon}`,
+        iconName:'CSS 3',
+    },
+
   
 ]
 export default Skill_Right_API;

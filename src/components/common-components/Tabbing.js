@@ -114,25 +114,24 @@ export default function VerticalTabs() {
                         <h5><a href='#'> OpensourceXpert Infotech Pvt. Ltd. </a></h5>
                       </div>
                       <div className='t-btn ex-btn text-center'>
-                        <span className='primary-btn'>Feb, 2022 - Present</span>
+                        <span className='primary-btn'>Feb, 2022 - Mar, 2024</span>
                       </div>
                     </div>
 
                     <ul>
                       <li>Expand features, refine code, and improve processes, producing smoother operations and enhancing user engagement.</li>
-                      <li>I've experience in third party REST API Integration to scale up the React SPA, React PWA and React SSR Applications.  </li>
-                      <li>Authentication and authorization using react components in web app.</li>
-                      <li>Develop web applications according to client briefs and modify designs to meet changes in client specifications.</li>
-                      <li>Developing dynamic and browser compatible pages using React Js, Javascript, HTML5, Tailwind, React Bootstrap , SASS, CSS3, Bootstrap and jQuery.</li>
-                      <li>Collaborated with web designers, back end developers and UX designers to design, build, test and improve web products.</li>
-                      <li>Assisted in the training of new developers and web designers.</li>
+                      <li>I've experience in responsive Design. </li>
+                      <li>Design web applications according to client briefs and modify designs to meet changes in client specifications.</li>
+                      <li>Designing dynamic and browser compatible pages using HTML5, CSS3, Tailwind, Bootstrap, Jquery and Javascript.</li>
+                      <li>Collaborated with Developer to design, test and improve web products.</li>
+                      <li>Assisted in the training of new developers.</li>
+                      <li>Ensure efficient web development by supporting designers and app developers while resolving website performance issues.</li>
                       {/* <li>Designing the Web Application using HTML5, SCSS , Bootstrap , jQuery with WordPress, Angular and Laravel.</li> */}
-                      <li>Ensure efficient web development by supporting designers and app developers while resolving website performance issues.
+                      <li>Ability to write Effectively, clean, minimalistic, reusable code.
 </li>
 
                       {/* <li>Experience themes and builder in WordPress such as Avada, Elementor, DIVI, Visual Composer, Astra, Sydney and WPBakery etc.</li>
                       <li>Developing customizing website using CBD in WordPress.</li> */}
-                      <li>Ability to write Effectively, clean, minimalistic, reusable code.</li>
                       <li>Utilized Adobe Photoshop, XD and Figma for the production of web-optimized Images.</li>
                       <li>Maintained accuracy and attention to detail throughout the creative and development process.</li>
                       <li>Handled multiple projects simultaneously while ensuring all projects were completed within the deadline date.</li>
@@ -153,7 +152,7 @@ export default function VerticalTabs() {
                         <h5><a href="#">TOPS Technology</a></h5>
                       </div>
                       <div className='t-btn ex-btn text-center'>
-                        <span className='primary-btn'>Sep, 2019 - Feb, 2021</span>
+                        <span className='primary-btn'>Mar, 2021 - Dec, 2021</span>
                       </div>
                     </div>
 
