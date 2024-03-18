@@ -22,6 +22,12 @@ const Testimonial_API = [
         profileImage:`${"https://images.unsplash.com/photo-1568602471122-7832951cc4c5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8dXNlciUyMGF2YXRhcnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"}`,
         name: "Kevin Monapara",
         post: "Software Engineer",
+    },
+    {
+        info: "I highly recommend Hasmukh as a Front-End Developer. He's a passionate problem solver who excels in delivering solutions. Working with him is a pleasure due to his friendly demeanor and dedication to his tasks. He is hardworking and committed to completing projects within deadlines. I wholeheartedly endorse him for any endeavor.",
+        profileImage:`${"https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dXNlciUyMGF2YXRhcnxlbnwwfHwwfHx8MA%3D%3D"}`,
+        name: "Jigar Parmar",
+        post: "Software Engineer",
     }
 ]
 export default Testimonial_API;
